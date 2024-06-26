@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "后厂村周刊",
+	"short_name": "HCC Weekly",
+	"description": "来自中国互联网\"宇宙中心\"后厂村的优质内容分享，纯人工筛选过滤",
 	"icons": [
 		{
 			"src": "/192x192.png",
