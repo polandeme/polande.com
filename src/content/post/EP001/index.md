@@ -1,9 +1,9 @@
 ---
-title: "EP001 BIO 工具"
-description: "【后厂村周刊】Bio生成工具，赛博佛祖Cloudflare推荐，大模型背后的残障人士需要思考"
+title: "EP001 BIO 工具"  
+description: "【后厂村周刊】Bio生成工具，系统设计面试题, 赛博佛祖Cloudflare，大模型背后的残障人士需要思考"
 publishDate: "2024-07-01"
-ogImage: "./cloudflare.jpg"
 tags: ["draft", "Weekly", "bio"]
+ogImage: "./cloudflare.jpg"  
 draft: false
 ---
 
