@@ -1,7 +1,8 @@
 ---
 title: "EP001 BIO 工具"
-description: "This post is for testing the draft post functionality"
-publishDate: "2024-06-26"
+description: "【后厂村周刊】Bio生成工具，赛博佛祖Cloudflare推荐，大模型背后的残障人士需要思考"
+publishDate: "2024-07-01"
+ogImage: "./cloudflare.jpg"
 tags: ["draft", "Weekly", "bio"]
 draft: false
 ---
